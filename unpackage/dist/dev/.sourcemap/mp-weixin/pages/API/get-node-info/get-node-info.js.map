@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,uH;AACAA,UAAU,CAACC,oBAAD,CAAV,C","file":"pages/API/get-node-info/get-node-info.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/API/get-node-info/get-node-info.vue'\ncreatePage(Page)"],"sourceRoot":""}

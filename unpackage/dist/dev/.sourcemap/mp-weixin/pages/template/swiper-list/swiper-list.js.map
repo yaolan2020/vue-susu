@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,yH;AACAA,UAAU,CAACC,mBAAD,CAAV,C","file":"pages/template/swiper-list/swiper-list.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/template/swiper-list/swiper-list.nvue'\ncreatePage(Page)"],"sourceRoot":""}

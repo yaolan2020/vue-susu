@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,oG;AACAA,UAAU,CAACC,cAAD,CAAV,C","file":"pages/extUI/icons/icons.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/extUI/icons/icons.nvue'\ncreatePage(Page)"],"sourceRoot":""}

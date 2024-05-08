@@ -1,0 +1,1 @@
+<view class="information"><view class="informationList"><view class="informationListLeft"><image class="icon" src="{{headerIcon}}"></image><view class="edition"><view style="font-size:16px;">诉诉飞飞</view><view style="font-size:12px;">1216827215@qq.com</view></view></view><view class="informationListRight"><text>{{edition}}</text></view></view></view>

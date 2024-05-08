@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,4G;AACAA,UAAU,CAACC,iBAAD,CAAV,C","file":"pages/API/scan-code/scan-code.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/API/scan-code/scan-code.vue'\ncreatePage(Page)"],"sourceRoot":""}

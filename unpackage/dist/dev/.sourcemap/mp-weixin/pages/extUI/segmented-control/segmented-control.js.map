@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,uI;AACAA,UAAU,CAACC,yBAAD,CAAV,C","file":"pages/extUI/segmented-control/segmented-control.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/extUI/segmented-control/segmented-control.nvue'\ncreatePage(Page)"],"sourceRoot":""}

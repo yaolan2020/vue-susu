@@ -1,0 +1,27 @@
+.home {
+  overflow: hidden;
+  position: relative;
+}
+.home .uni-padding-wrap,
+.home .page-section,
+.home .page-section-spacing,
+.home .swiper {
+  min-height: 40vh;
+  line-height: 40vh;
+  padding: 0;
+}
+.home .dataListGrid {
+  position: relative;
+  margin-top: 20px;
+}
+.home .dataListGrid .dataListItem .homeList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: -webkit-fill-available;
+}
+.home .dataListGrid .dataListItem .homeList .text {
+  margin-top: 10px;
+}
+

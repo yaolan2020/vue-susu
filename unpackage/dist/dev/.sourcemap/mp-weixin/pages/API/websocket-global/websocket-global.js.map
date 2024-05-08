@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,iI;AACAA,UAAU,CAACC,wBAAD,CAAV,C","file":"pages/API/websocket-global/websocket-global.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/API/websocket-global/websocket-global.vue'\ncreatePage(Page)"],"sourceRoot":""}
